@@ -1,42 +1,25 @@
-## 💜 Olá, meu nome é <strong>Victor Alves!</strong>
+# 💫 About Me:
+ 👋 Olá, eu sou Victor Alves                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                          <br>  🔭 Atualmente trabalhando em                                                                                                                                                                                                                            <br><br>  - https://vipgram.app - Plataforma de gerenciamento de bots e automação<br>  - https://quiner.com.br - Sistema completo de delivery e gestão para sorveteria artesanal<br>  - HotGhost - Ferramenta de camuflagem de criativos (texto, imagem e vídeo)<br><br>  👯 Procuro colaborar em<br><br>  - Plataformas SaaS de automação e gestão<br>  - Sistemas de e-commerce e delivery<br>  - Projetos com interfaces modernas e experiência do usuário diferenciada<br><br>  🤝 Preciso de ajuda com<br><br>  - Escalar aplicações para múltiplos usuários simultâneos<br>  - Otimização de performance em sistemas de alta demanda<br><br>  🌱 Atualmente aprendendo<br><br>  - Arquitetura de sistemas SaaS escaláveis<br>  - Integrações com APIs de pagamento e delivery<br>  - Supabase e banco de dados em tempo real<br>  - Processamento de mídia no navegador<br><br>  💬 Me pergunte sobre<br><br>  - Sistemas de delivery e gestão de pedidos<br>  - Plataformas de automação e bots<br>  - Next.js, React e TypeScript<br>  - Design de interfaces modernas e responsivas<br><br>  ⚡ Curiosidade<br><br>  - Criei um sistema de delivery completo para sorveteria e uma plataforma de automação de bots - gosto de transformar problemas reais em soluções digitais que funcionam!
 
-<img align="right" width="300" src="https://woobro.design/thumbnails/37/web-developer-vector-illustration-5de192c700231.png" />
 
-> Um developer front end apaixonado por tecnologia, sempre buscando aprender coisas novas para tornar sonhos em realidade através da programação.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ace6511) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victoralves.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vacoder.dev@gmail.com) 
 
-🔭 Atualmente estudo front-end buscando desenvolver e ampliar o meu conhecimento.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=victoralvesdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=victoralvesdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoralvesdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💬 Desde pequeno sempre amei a tecnologia e hoje em dia busco tornar esses sonhos em realidade, crescendo e aprendendo cada dia.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=victoralvesdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 ---
+[![](https://visitcount.itsvg.in/api?id=victoralvesdev&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## ⭐ Informações sobre minha conta GitHub
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/victor2010oli@gmail.com) 
+
   
-  <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralvesdev&theme=dracula&hide_langs_below=1" />
-</a>
-  
-  <h2 dir="auto"><a id="user-content-vamos-nos-conectar" class="anchor" aria-hidden="true" href="#vamos-nos-conectar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-  <strong>
-  Vamos nos Conectar:
-  </strong>
-</h2>
-
-<p align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/va-coder-205202235/" alt="Linkedin" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
-  <a href="https://www.instagram.com/va-coder-205202235/" alt="Instagram" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-   <a href="mailto:vacoder.dev@gmail.com" alt="Gmail">
-  <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-</a></p>
-
-<p dir="auto"><img src="https://github.com/victoralvesdev/victoralvesdev/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
